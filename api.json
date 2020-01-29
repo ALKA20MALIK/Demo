@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "FirstName": "Alka",
+      "LastName": "Malik",
+      "Phone": 8860634723
+    },
+    {
+      "id": 2,
+      "FirstName": "Bhoopendra",
+      "LastName": "Rathore",
+      "Phone": 8860634724
+    },
+    {
+      "id": 3,
+      "FirstName": "FN",
+      "LastName": "LN",
+      "Phone": 88606345435
+    }
+  ]
+}
